@@ -1,7 +1,7 @@
 ---
 title: Juan Carlos Martínez Sevilla
 role: Ph.D Student at Pattern Recognition and Artificial Intelligence Group
-avatar_filename: 5c3366a6-936a-4a3b-bf5d-84b7f64f8b84.jpeg
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
