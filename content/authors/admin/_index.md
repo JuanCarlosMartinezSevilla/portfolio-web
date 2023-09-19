@@ -5,10 +5,10 @@ avatar_filename: 5c3366a6-936a-4a3b-bf5d-84b7f64f8b84.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Music Information Retrieval
-  - Optical Music Recognition
-  - Audio-to-Score
+  - "- Artificial Intelligence"
+  - "- Music Information Retrieval"
+  - "- Optical Music Recognition"
+  - "- Audio-to-Score"
 social:
   - icon: envelope
     icon_pack: fas
