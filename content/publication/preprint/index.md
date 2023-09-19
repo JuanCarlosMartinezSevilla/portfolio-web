@@ -1,65 +1,57 @@
 ---
-title: "An example preprint / working paper"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
-
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-links:
-- name: Custom Link
-  url: http://example.org
+title: A Holistic Approach for Aligned Music and Lyrics Transcription
+abstract: In this paper, we present the Aligned Music Notation and Lyrics
+  Transcription (AMNLT) challenge, whose goal is to retrieve the content from
+  document images of vocal music. This new research area arises from the need to
+  automatically transcribe notes and lyrics from music scores and align both
+  sources of information conveniently. Although existing methods are able to
+  deal with music notation and text, they work without providing their proper
+  alignment, which is crucial to actually retrieve the content of the piece of
+  vocal music. To overcome this challenge, we consider holistic neural
+  approaches that transcribe music and text in one step, along with an encoding
+  that implicitly aligns the sources of information. The methodology is
+  evaluated on a benchmark specifically designed for AMNLT. The results report
+  that existing methods can obtain high-quality text and music transcriptions,
+  but posterior alignment errors are inevitably found. However, our formulation
+  achieves relative improvements of over 80% in the metric that considers both
+  transcription and alignment. We hope that this work will establish itself as a
+  future reference for further research on AMNLT.
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "1"
+authors:
+  - Juan C. Martinez-Sevilla
+  - A Rios-Vila
+  - FJ Castellanos
+  - J Calvo-Zaragoza
+publication: ""
+featured: false
+tags:
+  - Aligned Music Notation and Lyrics Transcription
+  - Optical Music Recognition
+  - Music Notation Recognition
+  - Lyrics Recognition
+projects: []
+summary: ""
+url_dataset: "#"
+url_project: ""
+publication_short: ""
+url_source: "#"
+url_video: "#"
+date: 2019-04-07T00:00:00Z
+url_slides: ""
+links:
+  - name: Custom Link
+    url: http://example.org
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+doi: 10.1007/978-3-031-41676-7_11
 ---
 
 {{% callout note %}}
