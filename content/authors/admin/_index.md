@@ -5,10 +5,10 @@ avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  "- Artificial Intelligence"
-  "- Music Information Retrieval"
-  "- Optical Music Recognition"
-  "- Audio-to-Score"
+  - "Artificial Intelligence"
+  - "Music Information Retrieval"
+  - "Optical Music Recognition"
+  - "Audio-to-Score"
 social:
   - icon: envelope
     icon_pack: fas
@@ -49,7 +49,7 @@ education:
       year: ""
 superuser: true
 status:
-  icon: 
+  icon: "a"
 last_name: Martínez Sevilla
 highlight_name: true
 first_name: Juan Carlos
