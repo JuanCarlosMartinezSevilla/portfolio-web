@@ -1,7 +1,7 @@
 ---
 title: Juan Carlos Martínez Sevilla
 role: Ph.D Student at Pattern Recognition and Artificial Intelligence Group
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include optical music recognition, audio-to-score transcription.
 
 interests:
