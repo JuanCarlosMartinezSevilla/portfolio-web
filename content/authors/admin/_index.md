@@ -2,13 +2,12 @@
 title: Juan Carlos Martínez Sevilla
 role: Ph.D Student at Pattern Recognition and Artificial Intelligence Group
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include optical music recognition, audio-to-score transcription.
 interests:
-  - Artificial Intelligence
-  - Music Information Retrieval
-  - Optical Music Recognition
-  - Audio-to-Score
+  * Artificial Intelligence
+  * Music Information Retrieval
+  * Optical Music Recognition
+  * Audio-to-Score
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,7 +43,7 @@ status:
 last_name: Martínez Sevilla
 highlight_name: true
 first_name: Juan Carlos
-email: ""
+email: "jcmartinez.sevilla@ua.es"
 ---
 Juan Carlos Martínez Sevilla, a native of Seville, Spain, was born in 1990 on a crisp autumn day. From a young age, Juan Carlos displayed an innate talent for music. At the tender age of 10, he picked up his first saxophone, commencing a lifelong romance with the instrument that would eventually shape his destiny.
 
