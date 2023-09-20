@@ -27,9 +27,6 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-  - block: posts
-    content:
-      title: Recent Posts
   - block: experience
     content:
       title: Experience
