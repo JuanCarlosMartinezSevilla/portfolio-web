@@ -5,10 +5,6 @@ avatar_filename: avatar.jpg
 bio: My research interests include optical music recognition, audio-to-score transcription.
 
 interests:
-  <ul>
-    <li>Artificial Intelligence</li>
-    <li>Music Information Retrieval</li>
-  </ul>
   - Artificial Intelligence
   - Music Information Retrieval
   - Optical Music Recognition
