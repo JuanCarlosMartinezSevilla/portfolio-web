@@ -7,7 +7,7 @@
 
 appearance:
   #minimal
-  theme_day: strawberry
+  theme_day: minimal
   font: minimal
   font_size: L
 
@@ -64,11 +64,6 @@ header:
 footer:
   copyright:
     notice: '© {year} Juan Carlos Martínez Sevilla.'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
 
 # Localization
 
