@@ -198,7 +198,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-   - block: tag_cloud
+  - block: tag_cloud
     content:
       title: Popular Topics
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
