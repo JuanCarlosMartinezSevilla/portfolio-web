@@ -19,11 +19,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/juan-carlos-martinez-sevilla/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 organizations:
-  - name: Patter Recognition and Artificial Intelligence Group
+  - name: PRAI Group, University of Alicante
     url: https://praig.ua.es/
 education:
   courses:
@@ -46,19 +46,8 @@ highlight_name: true
 first_name: Juan Carlos
 email: "jcmartinez.sevilla@ua.es"
 ---
-Juan Carlos Martínez Sevilla, a native of Seville, Spain, was born in 1990 on a crisp autumn day. From a young age, Juan Carlos displayed an innate talent for music. At the tender age of 10, he picked up his first saxophone, commencing a lifelong romance with the instrument that would eventually shape his destiny.
+Juan Carlos Martinez Sevilla was born in Elda (Alicante), Spain and is making waves at the intersection of music, computing, and human-centered technology. Currently is a Ph.D student at the Pattern Recognition and Artificial Intelligence Group of the University of Alicante.
 
-His musical journey took flight as he dedicated himself to mastering the saxophone, learning under the guidance of renowned music mentors, and captivating audiences with his impassioned performances. By his late teens, Juan Carlos had established himself as a professional saxophonist, using his instrument to weave melodious stories that touched the hearts of those who listened.
+His research is focused on the development of computational music systems, where he integrates his two passions: **music and artificial intelligence**. He takes human-centered computing approach, where technology allows users to empower their needs. Recently, he has focused on the improvement of current **Optical Music Recognition** systems bringing them closer to the musicians and musicologists. He is member of several music groups such as AMCE Santa Cecilia, AM San Antón, Idejazz Big Band and Jazz & Friends Quartet.
 
-Yet, there was another passion simmering beneath the surface. Juan Carlos had always been drawn to technology, and he decided to explore this fascination further. He enrolled in the Computer Science program at the University of Seville, where he excelled academically, earning his degree with honors.
-
-The convergence of music and technology became a defining theme in Juan Carlos's life. Rather than choosing one path over the other, he embarked on a mission to harmonize these seemingly disparate passions. This unique journey led him to pursue a Ph.D. in Computer Science at a prestigious international university.
-
-In the world of academia, Juan Carlos's innovative research sought to bridge the gap between music and technology. He developed groundbreaking software tools that promised to revolutionize music composition and performance, earning him accolades, awards, and research grants. His dual background in music and computer science positioned him as a visionary in the field, with the potential to reshape the future of music.
-
-Balancing the demands of a Ph.D. program and a thriving career as a professional saxophonist was no small feat. Yet, Juan Carlos embraced the challenge with fervor, seamlessly transitioning between the realms of academia and music. His ability to navigate these two worlds showcased his exceptional versatility and unwavering dedication.
-
-As he nears the completion of his Ph.D., Juan Carlos Martínez Sevilla stands at the threshold of an exciting future. His pioneering research promises to bridge the gap between music and technology, while his soulful saxophone performances continue to captivate audiences worldwide.
-
-Juan Carlos's life story is a testament to the power of passion and the beauty of pursuing one's dreams without compromise. With a heart that beats to the rhythm of both music and technology, he is poised to make an indelible mark on both realms, leaving behind a harmonious legacy for generations to come.
 {style="text-align: justify;"}
